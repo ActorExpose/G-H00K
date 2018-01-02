@@ -11,7 +11,7 @@ To start Phishing using this program :
 3. ask him to test the program.
 4. He will try it and get an error every time but you will get the passwords. Ta dah!
 5. At last, just ask him to delete it saying him that " It would be corrupted " or " It would be a bug. I will try to fix it. "
-6. Finally have fun with your phished id but if you have a sense of courtesy in any corner of your heart, please tell him about this
+6. Finally have fun with your phished id but if you have courtesy in any corner of your heart, please tell him about this
 
 ## Disclaimer
 
