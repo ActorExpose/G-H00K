@@ -1,0 +1,23 @@
+c:\users\hp-pc\documents\visual studio 2015\Projects\Gmail Desktop\Gmail Desktop\bin\Debug\Gmail Desktop.exe.config
+c:\users\hp-pc\documents\visual studio 2015\Projects\Gmail Desktop\Gmail Desktop\bin\Debug\Gmail Desktop.exe
+c:\users\hp-pc\documents\visual studio 2015\Projects\Gmail Desktop\Gmail Desktop\bin\Debug\Gmail Desktop.pdb
+c:\users\hp-pc\documents\visual studio 2015\Projects\Gmail Desktop\Gmail Desktop\bin\Debug\Gmail Desktop.xml
+c:\users\hp-pc\documents\visual studio 2015\Projects\Gmail Desktop\Gmail Desktop\obj\Debug\Gmail_Desktop.Resources.resources
+c:\users\hp-pc\documents\visual studio 2015\Projects\Gmail Desktop\Gmail Desktop\obj\Debug\Gmail Desktop.vbproj.GenerateResource.Cache
+c:\users\hp-pc\documents\visual studio 2015\Projects\Gmail Desktop\Gmail Desktop\obj\Debug\Gmail Desktop.exe
+c:\users\hp-pc\documents\visual studio 2015\Projects\Gmail Desktop\Gmail Desktop\obj\Debug\Gmail Desktop.xml
+c:\users\hp-pc\documents\visual studio 2015\Projects\Gmail Desktop\Gmail Desktop\obj\Debug\Gmail Desktop.pdb
+c:\users\hp-pc\documents\visual studio 2015\Projects\Gmail Desktop\Gmail Desktop\obj\Debug\Gmail_Desktop.Form1.resources
+c:\users\hp-pc\documents\visual studio 2015\Projects\Gmail Desktop\Gmail Desktop\obj\Debug\Gmail_Desktop.Splash.resources
+C:\Users\Hp-pc\Desktop\Gmail Desktop\Gmail Desktop\bin\Debug\Gmail Desktop.exe.config
+C:\Users\Hp-pc\Desktop\Gmail Desktop\Gmail Desktop\obj\Debug\Gmail Desktop.exe
+C:\Users\Hp-pc\Desktop\Gmail Desktop\Gmail Desktop\obj\Debug\Gmail Desktop.xml
+C:\Users\Hp-pc\Desktop\Gmail Desktop\Gmail Desktop\obj\Debug\Gmail Desktop.pdb
+C:\Users\Hp-pc\Desktop\Gmail Desktop\Gmail Desktop\bin\Debug\Gmail Desktop.exe
+C:\Users\Hp-pc\Desktop\Gmail Desktop\Gmail Desktop\bin\Debug\Gmail Desktop.pdb
+C:\Users\Hp-pc\Desktop\Gmail Desktop\Gmail Desktop\bin\Debug\Gmail Desktop.xml
+C:\Users\Hp-pc\Desktop\Gmail Desktop\Gmail Desktop\obj\Debug\Gmail Desktop.vbprojResolveAssemblyReference.cache
+C:\Users\Hp-pc\Desktop\Gmail Desktop\Gmail Desktop\obj\Debug\Gmail_Desktop.Form1.resources
+C:\Users\Hp-pc\Desktop\Gmail Desktop\Gmail Desktop\obj\Debug\Gmail_Desktop.Resources.resources
+C:\Users\Hp-pc\Desktop\Gmail Desktop\Gmail Desktop\obj\Debug\Gmail_Desktop.Splash.resources
+C:\Users\Hp-pc\Desktop\Gmail Desktop\Gmail Desktop\obj\Debug\Gmail Desktop.vbproj.GenerateResource.Cache
