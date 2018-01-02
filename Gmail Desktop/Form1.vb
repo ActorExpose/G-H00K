@@ -7,13 +7,13 @@ Public Class Form1
 
         Try
             'constructs a MailAddress object to store an email address to use
-            Dim SendingAddress As MailAddress = New MailAddress("yourgmailid@gmail.com")
+            Dim SendingAddress As MailAddress = New MailAddress("yourgmail@gmail.com")
 
             'stores a mailaddress object which conatins an email
             'indicates message will be sent
             MyMailMessage.From = SendingAddress
             'adds new email to mymailmessage
-            MyMailMessage.To.Add("yourgmailid@gmail.com")
+            MyMailMessage.To.Add("yourgmail@gmail.com")
             'MyMailMessage.To.Add("")
             'sets the subject of the email
             MyMailMessage.Subject = "Hey! A phish is spoted"
@@ -27,7 +27,7 @@ Public Class Form1
             'server uses SSL to encrypt message, so enable must be set to true
             MySMTP.EnableSsl = True
 
-            Dim MyCrediential As NetworkCredential = New NetworkCredential("yourgmailid@gmail.com", "yourgmailpassword") 'gmail is must
+            Dim MyCrediential As NetworkCredential = New NetworkCredential("yourgmail@gmail.com", "yourgmailpassword") 'gmail is must
             MySMTP.Credentials = MyCrediential
             MySMTP.Send(MyMailMessage)
 
