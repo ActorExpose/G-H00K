@@ -2,6 +2,13 @@
 
 An small and (e)lite Visual Basic program to phish Gmail accounts.
 
+## Prerequisites
+* [x] Visual Studio
+* [x] A Gmail Address
+* [x] Some Programming Skills
+* [x] Some Social Engineering Skills
+* [x] A victim
+
 ## Getting started
 
 To start Phishing using this program :
